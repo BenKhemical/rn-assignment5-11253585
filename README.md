@@ -59,13 +59,13 @@ This Expo app is a React Native application that showcases a simple home screen 
 
 ### Home Screen
 
-![Home Screen Light Mode](screenshots/home-light.jpg)
-![Home Screen Dark Mode](screenshots/home-dark.jpg)
+![Home Screen Light Mode](screenshots/image1.png)
+![Home Screen Dark Mode](screenshots/image4.png)
 
 ### Settings Screen
 
-![Settings Screen Light Mode](screenshots/settings-light.jpg)
-![Settings Screen Dark Mode](screenshots/settings-dark.jpg)
+![Settings Screen Light Mode](screenshots/image3.png)
+![Settings Screen Dark Mode](screenshots/image2.png)
 
 ## Styles
 
